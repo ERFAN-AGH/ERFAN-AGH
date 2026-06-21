@@ -45,7 +45,7 @@ A full-stack e-commerce app built with Next.js 15 — public storefront + role-p
 
 ---
 
-### 📫 Connect with Me
+
 ### 📫 Connect with Me
 
 <p align="left">
