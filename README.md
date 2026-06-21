@@ -47,7 +47,7 @@ A full-stack e-commerce app built with Next.js 15 — public storefront + role-p
 
 ### 📫 Connect with Me
 
-<p align="left">
+[<p align="left">
   <a href="https://github.com/ERFAN-AGH"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- Add your LinkedIn badge here once your profile is ready -->
-</p>
+</p>](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
